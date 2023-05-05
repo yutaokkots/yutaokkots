@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" />
+
+
+
 <!--
 **yutaokkots/yutaokkots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" />
+            
           
