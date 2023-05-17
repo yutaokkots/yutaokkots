@@ -3,13 +3,13 @@
 
 ### I'm Yuta👋
          
-<a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="50" /></a>
+<a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" /></a>
           
 </div>
 
-
+<div display="flex" align-content="space-between">
  <div align="center">          
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"  height="40" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="40" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  height="40" /> 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  height="40" />          
@@ -20,8 +20,8 @@
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  height="40" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height="40" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height="40" />
  </div>
+</div>
 
  <div align="center"> 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" />
