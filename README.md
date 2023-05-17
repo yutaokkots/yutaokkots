@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaokkots&layout=compact)%5D(https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=yutaokkots&layout=compact)%5D(https://github.com/anuraghazra/github-readme-stats)]
 
             
