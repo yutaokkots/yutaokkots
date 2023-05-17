@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div style="text-align:center">
+<div align="center">
 
 ### I'm Yuta👋
          
@@ -7,15 +7,15 @@
           
 </div>
 
-<div style="text-align:center">
-          <div style="display: inline">          
+<div align="center">
+          <div align="center">          
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  height="50" /> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  height="50" />          
           </div>
 
-          <div style="display: inline">             
+          <div align="center">             
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height="50" />
@@ -28,18 +28,18 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
           </div>
 
-          <div style="display: inline"> 
+          <div align="center"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="50" />
           </div>
 
-          <div style="display: inline">           
+          <div align="center">           
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50"/>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50"/>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="50"/>
           </div>
 
-          <div style="display: inline"> 
+          <div salign="center"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg"  height="50" /> 
