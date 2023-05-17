@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Yuta👋
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" />
 
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaokkots&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaokkots&theme=tokyonight&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
 
             
