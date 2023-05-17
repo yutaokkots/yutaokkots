@@ -1,8 +1,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div style="text-align:center">
 
 ### I'm Yuta👋
+         
 <a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="50" /></a>
-<div style="text-align:center>
+          
+</div>
+
+<div style="text-align:center">
           <div style="display: inline">          
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"  height="50" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" />
@@ -19,8 +24,8 @@
           </div>
 
           <div style="display: inline"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
           </div>
 
           <div style="display: inline"> 
