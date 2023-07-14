@@ -4,15 +4,6 @@
 
 # Yuta 👋  
 
-<ul style="list-style: none;">
-<li> 🔭 I’m currently working on ...</li>
-<li> 🌱 I’m currently learning ...</li>
-<li> 👯 I’m looking to collaborate on ...</li>
-<li> 🤔 I’m looking for help with ...</li>
-<li> 💬 Ask me about ...</li>
-<li> 📫 How to reach me: ...</li>
-</ul>
-
 ## <div style="display:flex; justify-content: center; align-content: center;" > <a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />&nbsp;LinkedIn</a>  </div> 
 
 
@@ -24,8 +15,6 @@
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  height="25" /> 
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  height="25" />          
-         </div>
-         <div align="center">             
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="25" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height="25" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="25" />
@@ -38,12 +27,8 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="25"/>
-         </div>
-         <div align="center"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="25" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="25" />
-         </div>
-         <div align="center"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"  height="25" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  height="25" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg"  height="25" /> 
