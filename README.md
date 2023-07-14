@@ -8,7 +8,7 @@
 
 </div>
 
-<div style="display:flex; justify-content: space-evenly; align-items: center;">
+<div >
          <div align="center">          
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="25" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" />
@@ -24,7 +24,7 @@
          </div>
 </div>
 
-<div style="display:flex; justify-content: space-evenly; align-items: center;">
+<div >
          <div align="center">           
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25"/>
