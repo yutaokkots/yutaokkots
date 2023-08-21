@@ -5,14 +5,13 @@
 
 # Yuta 👋  
 
-<div style="border-radius: 0.375rem; padding: 0.5rem 1rem; margin: 0.25rem 0.5rem; background-color: rgba(0, 0, 0, 0.4); color: #FFFFFF; width: 16rem; box-shadow: inset 0px 0px 5px 5px #FFFFFF;">
 
 || links below &darr;|
 | --------  | :---------: |
 | **Portfolio** | <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="40"></a> |
 | **LinkedIn**  |  <a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a> |
 
-</div>
+
 
 
 
