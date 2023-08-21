@@ -6,12 +6,9 @@
 # Yuta 👋  
 
 
-|| links below &darr;|
-| --------  | :---------: |
-| **Portfolio** | <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="40"></a> |
-| **LinkedIn**  |  <a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a> |
-
-
+|           | Dev Portfolio | Design Portfolio | LinkedIn |
+| --------  | :---------: | :---------: |  :---------:  |
+| **Links** | <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="40"></a> | <a href="https://www.oktsdesign.com/"><img src="./icons/logo final.svg" height="40"> | <a href="https://www.linkedin.com/in/yutaokkotsu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a> |
 
 
 
