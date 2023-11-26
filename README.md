@@ -3,6 +3,8 @@
 
 # Yuta 👋  
 
+<img src="./icons/diagram2.svg" height="150">
+
 - Software Engineering bootcamp graduate (General Assembly).
 - Enthusiastic about the opportunity to be a part of interesting projects.
 - <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="20"></a> Personal software portfolio.
