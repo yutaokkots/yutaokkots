@@ -1,17 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    /* border: 1px solid black; */
-    padding: 8px;
-    text-align: center;
-  }
-</style>
-
 <div style="text-align: center;">
 
 # Yuta 👋  
