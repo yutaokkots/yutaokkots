@@ -12,7 +12,7 @@
 - Software Engineering graduate (General Assembly bootcamp)
     - with design, art, photography, and product experience, and
     - with formal research experience. 
-- Enthusiastic about the opportunity to collaborate, and be a part of interesting projects.
+- Enthusiastic about the opportunity to collaborate, and be a part of interesting teams.
     - <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="20">  <ins>Software portfolio</ins>.</a>
     - <a href="https://www.oktsdesign.com/"><img src="./icons/logo final.svg" height="20">  <ins>Personal design portfolio</ins>. </a>
 - Currently learning java, raspberry pi, ML.
