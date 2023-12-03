@@ -3,21 +3,21 @@
 
 # Yuta 👋   
 
-<div style="text-align: center;">
+<p align="center">
 
 <img src="./icons/diagram2.svg" height="150">
 
-</div>
+</p>
 
-- Software Engineering bootcamp graduate (General Assembly).
-- With design, artistic, photography, and product experience.
+- Software Engineering graduate (General Assembly bootcamp)
+    - with design, art, photography, and product experience, and
+    - with formal research experience. 
 - Enthusiastic about the opportunity to collaborate, and be a part of interesting projects.
-- <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="20"> Personal software portfolio.</a>
-- <a href="https://www.oktsdesign.com/"><img src="./icons/logo final.svg" height="20"> Personal design portfolio. </a>
+    - <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="20">  <ins>Software portfolio</ins>.</a>
+    - <a href="https://www.oktsdesign.com/"><img src="./icons/logo final.svg" height="20">  <ins>Personal design portfolio</ins>. </a>
 - Currently learning java, raspberry pi, ML.
 
 <div style="text-align: center;">
-
 
 <hr>
 
