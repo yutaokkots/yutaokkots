@@ -10,7 +10,7 @@
 </p>
 
 - Software Engineering graduate (General Assembly bootcamp)
-    - with professional design, and product experience, and
+    - with professional design and product experience, and
     - with formal research experience. 
 - Enthusiastic about the opportunity to collaborate, and be a part of interesting teams.
     - <a href="https://www.yutaokkotsu.com/"><img src="./icons/y-square-white.svg" height="20">  <ins>Software portfolio</ins>.</a>
