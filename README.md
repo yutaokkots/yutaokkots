@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="./icons/diagram2.svg" height="150">
+<img src="./icons/diagram2.svg" height="200">
 
 </p>
 
